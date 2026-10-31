@@ -2,6 +2,12 @@
 
 A web-based application that helps users discover books using the Google Books API.
 
+
+
+<img width="761" height="775" alt="Screenshot 2026-10-31 134731" src="https://github.com/user-attachments/assets/176b47b6-03fd-4d27-be41-b394119cd327" />
+
+
+
 ## Tech Stack
 
 - [Node.js](https://nodejs.org/)
